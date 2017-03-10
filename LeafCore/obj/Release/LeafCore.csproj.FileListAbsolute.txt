@@ -1,0 +1,33 @@
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\LeafCore.dll
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\LeafCore.pdb
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Contrib.dll
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.dll
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.Util.dll
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Cuda.dll
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.pdb
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.xml
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Contrib.pdb
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Contrib.xml
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.Util.pdb
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.Util.xml
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Cuda.pdb
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Cuda.xml
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\obj\Release\LeafCore.dll
+C:\Users\Funapp\Documents\Visual Studio 2015\Projects\LeafService\LeafCore\obj\Release\LeafCore.pdb
+C:\Projects\LeafService\LeafCore\bin\Release\LeafCore.dll
+C:\Projects\LeafService\LeafCore\bin\Release\LeafCore.pdb
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Contrib.dll
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.dll
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.Util.dll
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Cuda.dll
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Contrib.pdb
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Contrib.xml
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.pdb
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.xml
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.Util.pdb
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.Util.xml
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Cuda.pdb
+C:\Projects\LeafService\LeafCore\bin\Release\Emgu.CV.Cuda.xml
+C:\Projects\LeafService\LeafCore\obj\Release\LeafCore.csprojResolveAssemblyReference.cache
+C:\Projects\LeafService\LeafCore\obj\Release\LeafCore.dll
+C:\Projects\LeafService\LeafCore\obj\Release\LeafCore.pdb
